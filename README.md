@@ -55,6 +55,7 @@ A proposal for a more formal Accessibility Scale metric based on the EN 301 549 
 
 - Using letters to indicate conformance level (A+, A,…,F)
 - Visuals inspired on Nutriscore
+<img src="https://raw.githubusercontent.com/openfed/AccessibilityScale/refs/heads/main/svg/scale-horizontal-b.svg" height="100">
 
 # Conformance levels
 
