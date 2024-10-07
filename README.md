@@ -35,7 +35,7 @@ A proposal for a more formal Accessibility Scale metric based on the EN 301 549 
         - Primary relationship: 1
         - Secondary relationship: 0.5
         - No relationship: 0
-    - (Weighted Sum of all applicable criteria) / (Weighted sum of all “pass” criteria)
+    - (Weighted sum of all “pass” criteria) / (Weighted Sum of all applicable criteria)
 - Final score is
     - Average of score per use case
     - *Except* if at least one use case scores below a threshold (25%) – then total score = lowest score
@@ -45,7 +45,7 @@ A proposal for a more formal Accessibility Scale metric based on the EN 301 549 
 - Three levels
     - 0 errors detected in simplified audit
     - \>=50% of verified criteria failed
-    - <50% of verified critaria failed
+    - <50% of verified criteria failed
 - Important distinction with in-depth
     - Simplified audit based on automated checks can establish violations (“fail”)
     - Cannot (for most criteria) establish “pass” since automated testing will miss certain failure cases
